@@ -45,7 +45,7 @@
     "eth-sig-util": "^3.0.1",
     "ethers": "^5.0.20",
     "reconnecting-websocket": "^4.4.0",
-    "ws": "^8.2.0"
+    "ws": "^8.5.0"
   },
   "engines": {
     "node": ">=10"
